@@ -8,6 +8,22 @@
     "enabled": true
   },
   {
+    "url": "https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666",
+    "keyword": "Add to cart",
+    "alert": true,
+    "method": "GET_URLLIB",
+    "name": "Newegg 5950X (backup)",
+    "enabled": true
+  },
+  {
+    "url": "https://www.amd.com/en/direct-buy/5450881400/",
+    "keyword": "Add to Cart",
+    "alert": true,
+    "method": "GET_URLLIB",
+    "name": "AMD 5950X",
+    "enabled": false
+  },
+  {
     "url": "https://www.bhphotovideo.com/c/product/1598372-REG/amd_100_100000059wof_ryzen_9_5950x_3_4.html",
     "keyword": "Add to Cart",
     "alert": true,
