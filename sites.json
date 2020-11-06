@@ -40,7 +40,7 @@
     "enabled": true
   },
   {
-    "url": "https://www.amazon.com/dp/B0815Y8J9N/?tag=6890-20&pldnSite=1",
+    "url": "https://smile.amazon.com/dp/B0815Y8J9N/",
     "keyword": ">Add to Cart<",
     "alert": true,
     "method": "GET_URLLIB",
