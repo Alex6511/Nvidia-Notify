@@ -8,7 +8,7 @@
     "enabled": true
   },
   {
-    "url": "https://www.newegg.com/amd-ryzen-5-5950x/p/N82E16819113666?Item=N82E16819113666",
+    "url": "https://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663",
     "keyword": "Add to cart",
     "alert": true,
     "method": "GET_URLLIB",
